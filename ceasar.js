@@ -1,4 +1,4 @@
-export default function ceaserCipher(string, key){
+export default function ceasar (string, key){
   const newLetters = [];
   const newKey = key % 26;
   for(const letter of string){
