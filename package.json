@@ -1,0 +1,28 @@
+{
+  "name": "testingjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.0",
+    "@babel/preset-env": "^7.8.2",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/em-em-D/TestingJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/em-em-D/TestingJS/issues"
+  },
+  "homepage": "https://github.com/em-em-D/TestingJS#readme"
+}
